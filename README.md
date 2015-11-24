@@ -23,10 +23,10 @@ foundation to jump start the new projects
 - init bower project 
  - `bower init` - accept all defaults, change ignore to app/bower_components
  - create/edit `.bowerrc`
+- clone a file structure
 - instal local dependencies
  - `npm install bower gulp gulp-uglify gulp-minify-css gulp-connect --save`
- - `$bower install jquery bootstrap --save`
-- clone a file structure
+ - `bower install jquery bootstrap --save`
 - install local dependencies for browserify
  - `npm install gulp-browserify gulp-concat --save`
 - install local angular modules
