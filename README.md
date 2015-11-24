@@ -25,12 +25,12 @@ foundation to jump start the new projects
  - create/edit `.bowerrc`
 - clone a file structure
 - instal local dependencies
- - `npm install bower gulp gulp-uglify gulp-minify-css gulp-connect --save`
+ - `npm install bower gulp gulp-uglify gulp-minify-css gulp-connect del run-sequence --save`
  - `bower install jquery bootstrap --save`
 - install local dependencies for browserify
  - `npm install gulp-browserify gulp-concat --save`
 - install local angular modules
- - `npm install angular angular-route angular-animate --save`
+ - `npm install angular angular-route --save`
 
 ## Sources
 - http://www.johnpapa.net/get-up-and-running-with-node-and-visual-studio/
