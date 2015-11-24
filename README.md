@@ -25,6 +25,7 @@ foundation to jump start the new projects
  - create/edit `.bowerrc`
 - instal local dependencies
  - `npm install bower gulp gulp-uglify gulp-minify-css gulp-connect --save`
+ - `$bower install jquery bootstrap --save`
 - clone a file structure
 - install local dependencies for browserify
  - `npm install gulp-browserify gulp-concat --save`
