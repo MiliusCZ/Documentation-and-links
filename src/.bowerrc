@@ -1,0 +1,6 @@
+{
+	"directory": "/app/bower_components",
+	"proxy" : "http://beantc.merck.com:8080",
+	"https-proxy" : "https://beantc.merck.com:8080",
+	"strict-ssl": false
+}
