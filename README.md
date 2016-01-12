@@ -37,3 +37,6 @@ foundation to jump start the new projects
 - http://mherman.org/blog/2014/08/14/kickstarting-angular-with-gulp/#.VlSbe3arQUF
 - http://mherman.org/blog/2014/08/15/kickstarting-angular-with-gulp-and-browserify-part-2/#.VlSREnarQUE
 - https://github.com/gulpjs/gulp/blob/master/docs/recipes/delete-files-folder.md
+
+## Other links
+- http://jsforallof.us/2015/02/12/utilising-node-and-npm-for-front-end-development-workflow/
