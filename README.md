@@ -41,3 +41,4 @@ foundation to jump start the new projects
 ## Other links
 - http://jsforallof.us/2015/02/12/utilising-node-and-npm-for-front-end-development-workflow/
 - http://ilikekillnerds.com/2014/07/what-a-front-end-developer-workflow-looks-like-in-20142015/
+- http://rbrtsmith.com/2015/08/a-modern-frontend-workflow/
