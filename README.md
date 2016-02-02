@@ -1,36 +1,20 @@
-# foundation
-foundation to jump start the new projects
-
-## What is used
-- npm
-- gulp
-- browserify module
-- bower
+# Useful docs and links
 
 ## Dev computer preparation
 - Chocolatey: `iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))`
 - npm: `choco install nodejs`
 - Visual Studio community edition: https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx
+- Visual Studio Code: https://code.visualstudio.com/
 
-## Steps
-- Create main directory for project - `mkdir project_name && cd project_name`
-- Init new project - `npm init` 
- - change starting point to gulpfile.js
-- install global packages
- - gulp: `npm install gulp -g`
- - browserify: `npm install browserify -g`
- - bower: `npm install bower -g`
-- init bower project 
- - `bower init` - accept all defaults, change ignore to app/bower_components
- - create/edit `.bowerrc`
-- clone a file structure
-- instal local dependencies
- - `npm install bower gulp gulp-uglify gulp-minify-css gulp-connect del run-sequence --save`
- - `bower install jquery bootstrap --save`
-- install local dependencies for browserify
- - `npm install gulp-browserify gulp-concat --save`
-- install local angular modules
- - `npm install angular angular-route --save`
+## Preparing new repo from boiler plate
+    git init
+    git checkout -b master
+    git remote add upstream https://github.com/werein/react.git
+    git fetch upstream
+    git merge upstream/master
+    
+    git remote add origin https://github.com/MiliusCZ/{new-repo-name}.git
+    git push -u origin master
 
 ## Sources
 - http://www.johnpapa.net/get-up-and-running-with-node-and-visual-studio/
