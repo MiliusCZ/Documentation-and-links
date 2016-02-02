@@ -9,7 +9,7 @@
 ## Preparing new repo from boiler plate
     git init
     git checkout -b master
-    git remote add upstream https://github.com/werein/react.git
+    git remote add upstream {boilerplate-url}
     git fetch upstream
     git merge upstream/master
     
