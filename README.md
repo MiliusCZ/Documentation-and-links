@@ -44,4 +44,4 @@ foundation to jump start the new projects
 - http://rbrtsmith.com/2015/08/a-modern-frontend-workflow/
 - http://christianalfoni.github.io/javascript/2014/12/13/did-you-know-webpack-and-react-is-awesome.html
 - http://www.getmdl.io/
-- 
+- http://scottaddie.com/2015/10/07/harnessing-webpack-with-visual-studio-code/
