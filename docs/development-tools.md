@@ -17,7 +17,8 @@
 #### Virtualization    
     choco install virtualbox
 
-#### Mobile development
+#### Mobile and IoT development
     choco install androidstudio
+    choco install arduino
 
     
