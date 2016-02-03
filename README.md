@@ -16,6 +16,11 @@
 - http://graph.microsoft.com
 - http://github.com/officedev
 
+## React, Redux
+- http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
+- http://survivejs.com/
+- https://scotch.io/tutorials/learning-react-getting-started-and-concepts
+
 ## Useful links
 - http://www.johnpapa.net/get-up-and-running-with-node-and-visual-studio/
 - http://mherman.org/blog/2014/08/14/kickstarting-angular-with-gulp/#.VlSbe3arQUF
