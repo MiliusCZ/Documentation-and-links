@@ -1,5 +1,7 @@
 # Tools for development
 
+## Frontend
+
 #### Node.js
     choco install nodejs
 #### Git
@@ -8,3 +10,10 @@
 #### Visual Studio and VS Code
     choco install visualstudio2015community
     choco install visualstudiocode
+
+## Other
+    choco install fiddler
+    choco install virtualbox
+    choco install androidstudio
+
+    
