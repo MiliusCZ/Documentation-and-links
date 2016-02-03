@@ -10,7 +10,7 @@
     choco install git
     choco install github
 #### IDE
-    choco install choco install visualstudio2015community
+    choco install visualstudio2015community
     choco install visualstudiocode
 
 ## Preparing new repo from boiler plate
