@@ -9,7 +9,7 @@
 #### Git
     choco install git
     choco install github
-#### IDE
+#### Visual Studio and VS Code
     choco install visualstudio2015community
     choco install visualstudiocode
 
