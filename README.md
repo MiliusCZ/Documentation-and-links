@@ -11,6 +11,11 @@
 
 - [Start from boilerplate](docs/boilerplate.md)
 
+## Office 365
+- http://dev.office.com/fabric
+- http://graph.microsoft.com
+- http://github.com/officedev
+
 ## Useful links
 - http://www.johnpapa.net/get-up-and-running-with-node-and-visual-studio/
 - http://mherman.org/blog/2014/08/14/kickstarting-angular-with-gulp/#.VlSbe3arQUF
