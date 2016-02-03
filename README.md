@@ -1,10 +1,17 @@
 # Useful docs and links
 
 ## Dev computer preparation
-- Chocolatey: `iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))`
-- npm: `choco install nodejs`
-- Visual Studio community edition: https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx
-- Visual Studio Code: https://code.visualstudio.com/
+
+#### Chocolatey 
+    iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))
+#### Node.js
+    choco install nodejs
+#### Git
+    choco install git
+    choco install github
+#### IDE
+    choco install choco install visualstudio2015community
+    choco install visualstudiocode
 
 ## Preparing new repo from boiler plate
     git init
