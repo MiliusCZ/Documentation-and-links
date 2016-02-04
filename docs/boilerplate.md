@@ -6,5 +6,5 @@
     git fetch upstream
     git merge upstream/master
     
-    git remote add origin https://github.com/MiliusCZ/{new-repo-name}.git
+    git remote add origin https://github.com/{github-username}/{new-repo-name}.git
     git push -u origin master
