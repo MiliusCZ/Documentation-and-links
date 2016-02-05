@@ -2,9 +2,7 @@
 
 ## Computer installation
 
-- [Initialization](docs/initialization.md)
-- [Standard components](docs/standard-components.md)
-- [Develompment tools](docs/development-tools.md)
+- [New computer](docs/install-new-computer.ps1) - download the script, uncomment wanted software and run via powershell
 - [Advanced settings](docs/advanced-settings.md)
 
 ## Development
