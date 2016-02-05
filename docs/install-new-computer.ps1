@@ -21,6 +21,15 @@ iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.p
 #choco install plexmediaserver -y
 #choco install handbrake -y
 #choco install paint.net -y
+#choco install exiftool -y
+
+# Diagnostic and network
+
+#choco install crystaldiskmark -y
+#choco install fiddler -y
+#choco install putty -y
+#choco install winscp -y
+#choco install sysinternals -y
 
 # Development
 
@@ -28,12 +37,8 @@ iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.p
 #choco install git -y
 #choco install github -y
 #choco install sourcetree -y
-
 #choco install visualstudio2015community -y
 #choco install visualstudiocode -y
-#choco install fiddler -y
-
 #choco install virtualbox -y
-
 #choco install androidstudio -y
 #choco install arduino -y
