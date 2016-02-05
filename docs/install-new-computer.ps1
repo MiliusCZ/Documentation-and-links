@@ -22,6 +22,8 @@ iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.p
 #choco install handbrake -y
 #choco install paint.net -y
 #choco install exiftool -y
+#choco install mkvtoolnix -y
+#choco install virtualdub -y
 
 # Diagnostic and network
 
