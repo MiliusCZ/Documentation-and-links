@@ -20,7 +20,7 @@ iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.p
 #choco install picard -y
 #choco install plexmediaserver -y
 #choco install handbrake -y
-
+#choco install paint.net
 # Development
 
 #choco install nodejs -y
