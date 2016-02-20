@@ -1,8 +1,10 @@
+Set-ExecutionPolicy RemoteSigned
+
 iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))
 
 # Productivity
 
-#choco install chrome -y
+#choco install googlechrome -y
 #choco install totalcommander -y 
 #choco install 7zip -y
 #choco install jdownloader -y
