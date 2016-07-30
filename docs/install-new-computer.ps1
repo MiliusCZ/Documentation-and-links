@@ -46,3 +46,4 @@ iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.p
 #choco install virtualbox -y
 #choco install androidstudio -y
 #choco install arduino -y
+#choco install conemu -y
